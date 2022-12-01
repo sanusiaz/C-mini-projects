@@ -13,4 +13,6 @@ int main()
     float area = PI *  ( (float)  radius *(float)  radius );
 
     printf("Calculated Area of a circle with radius of %i: is %.2f", radius, area);
+
+    return 0;
 }
