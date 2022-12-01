@@ -1,3 +1,9 @@
+
+/**
+ * @package C
+ * A simple package to show the number of dozens sold in a day
+ */
+
 #include <stdio.h>
 
 int main()

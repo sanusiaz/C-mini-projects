@@ -1,3 +1,9 @@
+
+/**
+ * @package C
+ * A Simple program to print hello
+*/
+
 #include <stdio.h>
 
 int main()
@@ -6,7 +12,7 @@ int main()
 	printf("Enter your age: ");
 	scanf("%i", &age);
 
-	printf("Hello evernone my age is: %i\n", age);
+	printf("Hello everyone my age is: %i\n", age);
 
 	return 0;
 }

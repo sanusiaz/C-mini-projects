@@ -1,5 +1,12 @@
+
+/**
+ * @package C
+ * A Simple program in C to calculate the radius of a circle
+*/
+
 #include <stdio.h>
 
+// constant PI 
 float PI = 3.142857;
 
 int main()

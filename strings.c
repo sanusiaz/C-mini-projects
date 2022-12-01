@@ -1,3 +1,10 @@
+
+/**
+ * @package C
+ * Program to get users first name and last name 
+ * From different inputs
+*/
+
 #include <stdio.h>
 #include <string.h>
 
@@ -24,7 +31,7 @@ int main()
     }
     while(strlen(lastname) < 1 || strlen(lastname) > 20);
 
-    printf("Your full name is: %s %s", firstname, lastname);
+    printf("Your fullname is: %s %s", firstname, lastname);
 
     return 0;
 }
